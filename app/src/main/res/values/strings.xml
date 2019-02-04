@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterLoginIntegration</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">4FphSbSqRfMbUMEOqiFZzNyPG</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">0P66ivHvx5ROmR85ax4h8KesMClRrHeuACkF7v5KrpiPwYG0q8
+</string>
+    <string name="custom_log_in_with_twitter">Custom Log in with Twitter</string>
+    <string name="get_profile_image">Fetch Profile Image</string>
+</resources>
